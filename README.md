@@ -1,6 +1,6 @@
 # .NET Core ConsoleApp + Dependency Injection
 # Introduction 
-A sample project to show how to use dependency injection from .NET Core on simple ConsoleApps. docker.
+A sample project to show how to use dependency injection from .NET Core on simple ConsoleApps.
 # Build and Test
 To run this project, just `git clone` it, use `dotnet run` on the .csproj folder.
 
